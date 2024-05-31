@@ -1,11 +1,13 @@
 .parent {
   width: 300px;
   height: 200px;
+  margin: auto;
   background-color: royalblue;
 }
 
 .child {
   width: 50%;
   height: 100px;
+  margin: auto;
   background-color: orange;
 }
