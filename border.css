@@ -2,5 +2,6 @@
   width: 100px;
   height: 100px;
   background-color: orange;
-  border: 10px dashed red;
+  border: 10px solid red;
+  border-radius: 10px;
 }
