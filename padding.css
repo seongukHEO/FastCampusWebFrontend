@@ -1,0 +1,17 @@
+.container {
+}
+
+.item {
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  border: 10px solid red;
+}
+
+.item2 {
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  padding: 20px;
+  border: 10px solid red;
+}
