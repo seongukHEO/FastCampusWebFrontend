@@ -1,0 +1,11 @@
+p {
+  width: 200px;
+  height: 200px;
+  display: block;
+  background-color: royalblue;
+
+  color: white;
+  text-align: left;
+  text-decoration: underline;
+  text-indent: 30px;
+}
