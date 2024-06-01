@@ -1,0 +1,9 @@
+div {
+  width: 200px;
+  height: 200px;
+  background-color: orange;
+  background-image: url("img/france_gh.png");
+  background-size: 50px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
