@@ -1,0 +1,7 @@
+span {
+  width: 120px;
+  height: 30px;
+  background-color: orange;
+  color: white;
+  display: none;
+}
