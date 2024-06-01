@@ -3,5 +3,5 @@ span {
   height: 30px;
   background-color: orange;
   color: white;
-  display: none;
+  display: block;
 }
